@@ -11,7 +11,24 @@
 
 ## Download dataset
 https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+ - Dataset is to large to upload on github (3.06gb)
+ - 
+### Required Libraries
+To run the analysis, the following Python libraries are required:
 
+- `nltk`
+- `re`
+- `string`
+- `pandas`
+- `numpy`
+- `seaborn`
+- `matplotlib`
+- `plotly`
+- `sklearn`
+- `folium`
+- `calendar`
+- `copy`
+  
 ## Business Understanding
 
 Traffic accidents pose significant risks to public safety, transportation efficiency, and economic costs. Each year, 1.35 million people die on roadways globally, with road traffic injuries being the leading cause of death for children and young adults aged 5-29 years. In the United States, understanding the patterns, causes, and consequences of road accidents is crucial for developing effective safety measures, optimizing traffic management, and reducing the overall impact on society. This project aims to analyze traffic accident data to uncover key insights and predict accident severity, ultimately informing policy decisions and enhancing road safety.
